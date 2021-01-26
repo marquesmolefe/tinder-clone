@@ -41,7 +41,7 @@ function TinderCards() {
                         </div>
                     </TinderCard>
                 ))}  
-            </div>            
+            </div>              
         </div> 
     ); 
 }
